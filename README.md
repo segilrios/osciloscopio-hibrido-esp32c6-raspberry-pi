@@ -15,7 +15,7 @@ La referencia [`dashboard/LEEME_PRIMERO.txt`](dashboard/LEEME_PRIMERO.txt) es hi
 - [`docs/instalacion.md`](docs/instalacion.md): preparación reproducible local.
 - [`docs/arquitectura.md`](docs/arquitectura.md): componentes, contrato y límites de evidencia.
 - [`docs/raspberry-pi.md`](docs/raspberry-pi.md): dependencias y smoke test físico opcional.
-- [`docs/requisitos-y-verificacion.md`](docs/requisitos-y-verificacion.md): matriz existente, pendiente de reconciliación en U3.
+- [`docs/requisitos-y-verificacion.md`](docs/requisitos-y-verificacion.md): requisitos y matriz de verificación con resultados y pruebas pendientes.
 - [`entregables/`](entregables/): declaraciones existentes.
 
 ## Prueba local del dashboard (sin hardware)
