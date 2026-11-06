@@ -1,0 +1,43 @@
+# ESP-IDF / firmware outputs
+**/build/
+# Generated serial capture from the legacy firmware tree (not source).
+firmware/docs/pruebas/*.txt
+# Outdated machine-specific command notes superseded by docs/instalacion.md.
+firmware/docs/Comandos.txt
+**/sdkconfig
+**/sdkconfig.*
+**/*.bin
+**/*.elf
+**/*.map
+**/*.a
+**/*.o
+**/*.obj
+
+# Python caches and local environments
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Archives and generated bundles
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Secrets and machine-local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+credentials.json
+secrets.json
+
+# Local/editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
