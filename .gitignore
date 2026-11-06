@@ -36,6 +36,11 @@ venv/
 credentials.json
 secrets.json
 
+# Historical local ODD task records predating this unified deliverable.
+odd/osciloscopio-hibrido/
+odd/tasks/osciloscopio-hibrido.md
+odd/tasks/informe-proyecto-ia.md
+
 # Local/editor/OS files
 .DS_Store
 Thumbs.db
